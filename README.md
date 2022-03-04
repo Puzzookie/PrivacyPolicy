@@ -4,7 +4,7 @@ Privacy Policy:
 
 Last updated: March 4, 2022
 
-Puzzookie ("We") operates Word Search Generator on the Google Play Store.
+Puzzookie ("We") operates Word Search Generator and Word Search Generator (w/Ads) on the Google Play Store.
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -42,10 +42,12 @@ Our Service does not address anyone under the age of 13 ("Children").
 We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
 Changes To This Privacy Policy
+
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 Our Privacy Policy agreement was created by TermsFeed
 
 Contact Us
+
 If you have any questions about this Privacy Policy, please contact us.
 puzzookie@gmail.com
