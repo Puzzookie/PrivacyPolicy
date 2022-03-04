@@ -4,7 +4,7 @@ Privacy Policy:
 
 Last updated: March 4, 2022
 
-Puzzookie ("We") operates Word Search Generator and Word Search Generator (w/Ads) on the Google Play Store.
+Puzzookie ("us", "we", "our") operates Word Search Generator and Word Search Generator (w/Ads) on the Google Play Store.
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
