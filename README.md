@@ -2,7 +2,7 @@
 
 Privacy Policy:
 
-Last updated: March 4, 2022
+Last updated: March 16, 2022
 
 Puzzookie ("us", "we", "our") operates Word Search Generator and Sliding Puzzle on the Google Play Store.
 
