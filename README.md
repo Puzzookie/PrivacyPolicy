@@ -2,9 +2,9 @@
 
 Privacy Policy:
 
-Last updated: March 16, 2022
+Last updated: April 1, 2022
 
-Puzzookie ("us", "we", "our") operates Word Search Generator, Sliding Puzzle, and Binary Sudoku Generator on the Google Play Store.
+Puzzookie ("us", "we", "our") operates Word Search Generator, Sliding Puzzle, Binary Sudoku Generator, and Knight's Tour Generator on the Google Play Store.
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -12,7 +12,7 @@ We will not use or share your information with anyone except as described in thi
 
 We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-Puzzookie provides two different types of games on the Google Play Store (Premium and Free Games). Premium games do NOT require any special permissions and do NOT have any advertisements. There is no collection, log data, cookies, third party service providers, or links to other sites for the following games provided by Puzzookie on the Google Play Store: "Word search Generator", "Sliding Puzzle", and "Binary Sudoku Generator".
+Puzzookie provides two different types of games on the Google Play Store (Premium and Free Games). Premium games do NOT require any special permissions and do NOT have any advertisements. There is no collection, log data, cookies, third party service providers, or links to other sites for the following games provided by Puzzookie on the Google Play Store: "Word search Generator", "Sliding Puzzle", "Binary Sudoku Generator", and "Knight's Tour Generator".
 
 In the future, we plan on providing games for free which will contain advertisements. Free games DO require special premissions and DO have advertisements. We currently do not have any free games on the Google Play Store. However, when we do the following will apply:
 
