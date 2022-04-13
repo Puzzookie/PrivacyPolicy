@@ -2,7 +2,7 @@
 
 Privacy Policy:
 
-Last updated: April 6, 2022
+Last updated: April 13, 2022
 
 Puzzookie ("us", "we", "our") operates Word Search Generator, Sliding Puzzle, Binary Sudoku Generator, Knight's Tour Generator, and Shape Shifter on the Google Play Store.
 
